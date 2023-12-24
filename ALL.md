@@ -4,7 +4,13 @@ size: 4:3
 math: mathjax
 ---
 
-# Segment tree
+# team
+
+![picture 0](/images/7c51a31504f253b6b9b7a4cf2d91f52f0a68ee28d8f350fa7440173b5ec9bb4c.png)  
+
+---
+
+## Segment tree
 
 ## 用于维护幺半群区间信息的数据结构
 
